@@ -1,5 +1,6 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
-
+## Name: S Madhumitha
+## Reg No:212225040217
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
